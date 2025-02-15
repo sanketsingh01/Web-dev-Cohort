@@ -27,7 +27,7 @@
 
  ## Sections
 
- - ### [Assignments :](#)
+ - ### [Assignments : learn](./Assignmets/Readme.md)
  - ### [Projects :](#)
  - ### [Blogs](#)
  <br>
