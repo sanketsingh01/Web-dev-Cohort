@@ -6,6 +6,9 @@
   Welcome to my Week Three Assignments repository! Here, you'll find solutions to Javascript challenges. 
 </p>
 
+<strog> NOTE :- I copied the entire week 3 from [Jay kadlag's github](https://github.com/devwithjay/chai-aur-cohort) who is one of the fellow developer in my cousrse. So, all credit of writting this goes to jay.
+</strong>
+
 <br>
 
 <p align="center">
