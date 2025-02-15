@@ -1,0 +1,147 @@
+/* Challenge CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Basic styles */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+/* Navbar styles */
+.navbar {
+  /* Add styles for navbar */
+  background-color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 70px;
+}
+
+.logo {
+  /* Add styles for the logo */
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  gap: 8px;
+  font-size: 20px;
+}
+
+.logo img {
+  /* Add styles for logo image */
+  border-radius: 100%;
+}
+
+.nav-links a {
+  /* Add styles for nav links */
+  text-decoration: none;
+  color: #ffffff;
+  padding: 0 20px;
+}
+
+.nav-links a:hover {
+  /* Add hover styles for nav links */
+  color: rgb(248, 212, 6);
+}
+
+/* Hero section styles */
+.hero {
+  /* Add styles for hero section */
+  position: relative;
+  height: 90.5vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 0;
+  color: #ffffff;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/chaigym.png');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  filter: brightness(0.4);
+}
+
+.hero-content {
+  /* Add styles for hero content */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.hero-content h1 {
+  /* Add styles for hero heading */
+  font-size: 45px;
+  margin-top: 30px;
+}
+
+.hero-content p {
+  /* Add styles for hero paragraph */
+  font-size: 18px;
+}
+
+.cta-button {
+  /* Add styles for CTA button */
+  padding: 15px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 170px;
+  background-color: #ff7902;
+  border: none;
+  margin-top: 15px;
+}
+
+.cta-button:hover {
+  /* Add hover styles for CTA button */
+  color: #ffffff;
+  box-shadow: 0 0 10px #ff7902;
+}
+
+/* Features section styles */
+.features {
+  /* Add styles for features section */
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 95%;
+  padding: 60px 0px;
+  gap: 20px;
+  border-radius: 20px;
+}
+
+.feature {
+  /* Add styles for each feature block */
+  border: 2px solid #f57402;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 280px;
+  padding: 15px 0px;
+  border-radius: 15px;
+}
+
+.feature h3 {
+  /* Add styles for feature heading */
+  color: #f57402;
+  margin-top: 5px;
+}
+
+.feature p {
+  /* Add styles for feature paragraph */
+  margin-top: 10px;
+  font-size: 15px;
+  color: #cccccc;
+}

@@ -1,0 +1,122 @@
+/* Challenge CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+}
+
+.container {
+  /* Add your styles here */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  /* Add your styles here */
+  font-size: 2.5rem;
+  margin-top: 30px;
+}
+
+.pricing-heading {
+  /* Add your styles here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pricing-container {
+  /* Add your styles here */
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.pricing-card {
+  /* Add your styles here */
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 380px;
+  padding: 30px;
+}
+
+.pricing-card:hover {
+  box-shadow: 0 0 10px #ff7801;
+  transform: translateY(-2px);
+  transition: all 0.3s ease-in-out;
+}
+
+.pricing-card.popular {
+  /* Add your styles here */
+  border: 3px solid #ff7801;
+  position: relative;
+}
+
+.popular-badge {
+  padding: 5px 5px;
+  background-color: #ff7800;
+  border-radius: 15px;
+  color: #ffffff;
+  position: absolute;
+  top: -16px;
+}
+
+.price {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.period {
+  font-size: 14px;
+  color: rgb(167, 159, 159);
+}
+
+.features {
+  /* list-style-position: inside; */
+  list-style: none;
+}
+
+.features li {
+  /* Add your styles here */
+  margin-top: 10px;
+  position: relative;
+  padding-left: 40px;
+  text-align: center;
+}
+
+.features li::before {
+  content: '🍵';
+  position: absolute;
+  top: 5%;
+  left: 0;
+  background-size: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.subscribe-btn {
+  /* Add your styles here */
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #ff9533;
+  border: none;
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+.subscribe-btn:hover {
+  color: #ffffff;
+  box-shadow: 0 0 10px #ff9533;
+}
