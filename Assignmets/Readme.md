@@ -13,7 +13,7 @@
 </div>
 <br>
 
-- ## [Week 1 : CSS Challenge](#)
+- ## [Week 1 : CSS Challenge](./Week%2001/)
 - ## [Week 2 : Advance Css Challenge](#)
 - ## [Week 3 : Js Challenges](#)
 
