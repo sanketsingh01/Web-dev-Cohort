@@ -14,7 +14,7 @@
 <br>
 
 - ## [Week 1 : CSS Challenge](./Week%2001/)
-- ## [Week 2 : Advance Css Challenge](#)
+- ## [Week 2 : Advance Css Challenge](./Week%2002/)
 - ## [Week 3 : Js Challenges](#)
 
 </br>
