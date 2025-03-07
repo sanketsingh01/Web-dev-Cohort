@@ -16,7 +16,7 @@
 <p align="center">
     <a href="#Introduction"><strong>INTRODUCTION</strong></a> ·
     <a href="#Sections"><strong>SECTIONS</strong></a> ·
-    <a href="#Tech - Stack"><strong>Tech-Stack</strong></a>
+    <a href="#Tech-Stack"><strong>Tech-Stack</strong></a>
  </p>   
  <br>
 
@@ -33,7 +33,7 @@
 - ### [Blogs](#)
 <br>
 
-## Tech - Stack
+## Tech-Stack
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) :- For stucturing Web page
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) :- For designing the webpage
