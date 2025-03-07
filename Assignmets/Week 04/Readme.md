@@ -17,7 +17,7 @@
 
 ### 1. Prototypes
 
-#### [Animal Constructor](./prototypes/animal-constructor.js)
+#### [Animal Constructor](./Prototypes/Animal.js)
 
 You need to create a constructor function Animal that takes a name parameter. Add a method makeSound to its prototype, which always returns "Some generic sound".
 
@@ -26,7 +26,7 @@ You need to create a constructor function Animal that takes a name parameter. Ad
 - Implement a constructor function Animal that initializes the name property.
 - Attach a method makeSound to its prototype that returns "Some generic sound".
 
-#### [Robot Constructor](./prototypes/robot-constructor.js)
+#### [Robot Constructor](./Prototypes/Robot.js)
 
 You are designing a simple robot system. Each robot has a `name` and a `batteryLevel`. The robot should have a method `charge()` that increases the battery level by `20`, but it cannot exceed `100`.
 
@@ -35,7 +35,7 @@ You are designing a simple robot system. Each robot has a `name` and a `batteryL
 - Implement a constructor function `Robot` that initializes `name` and `batteryLevel`.
 - Attach a method `charge()` to its prototype that increases `batteryLevel` by `20`, ensuring it does not go above `100`.
 
-#### [Counter Constructor](./prototypes/counter-constructor.js)
+#### [Counter Constructor](./Prototypes/Counter_constructor.js)
 
 You need to create a `Counter` constructor function that initializes a `count` property to `0`. The counter should have two prototype methods:
 
@@ -47,7 +47,7 @@ You need to create a `Counter` constructor function that initializes a `count` p
 - Implement a constructor function `Counter` that initializes `count` to `0`.
 - Attach `increment()` and `decrement()` methods to the prototype.\
 
-#### [Playlist Constructor](./prototypes/playlist-constructor.js)
+#### [Playlist Constructor](./Prototypes/Playlist_constructor.js)
 
 Create a `Playlist` constructor that initializes with an empty `songs` array. Add a method `addSong(song)` to the prototype that adds a new song to the playlist.
 
@@ -56,7 +56,7 @@ Create a `Playlist` constructor that initializes with an empty `songs` array. Ad
 - Implement a constructor function `Playlist` that initializes an empty `songs` array.
 - Attach a method `addSong(song)` to its prototype that adds the song to the `songs` array.
 
-#### [Shopping Cart](./prototypes/shopping-cart.js)
+#### [Shopping Cart](./Prototypes/ShopingCart_constructor.js)
 
 Create a `ShoppingCart` system where items can be added with a `price`. Implement a method `getTotalPrice()` that calculates the total price of all items in the cart.
 
@@ -66,7 +66,7 @@ Create a `ShoppingCart` system where items can be added with a `price`. Implemen
 - Attach `addItem(price)` to the prototype to add items.
 - Attach `getTotalPrice()` to calculate the total price of items.
 
-#### [Bank Account](./prototypes/bank-account.js)
+#### [Bank Account](./Prototypes/Bank.js)
 
 Create a `BankAccount` constructor that initializes:
 
@@ -95,7 +95,7 @@ Implement the following **methods** on the prototype:
 - Implement `BankAccount` constructor with `balance` and `transactions`.
 - Attach `deposit(amount)`, `withdraw(amount)`, and `getTransactionHistory()` methods to the prototype.
 
-#### [Employee Constructor](./prototypes/employee-constructor.js)
+#### [Employee Constructor](./Prototypes/Employee.js)
 
 Create an `Employee` constructor that initializes `name`, `position`, and `salary`. Implement:
 
@@ -106,7 +106,7 @@ Create an `Employee` constructor that initializes `name`, `position`, and `salar
 - Implement `Employee` constructor with `name`, `position`, and `salary`.
 - Attach `applyBonus(percent)` to the prototype to increase salary.
 
-#### [Library Constructor](./prototypes/library-constructor.js)
+#### [Library Constructor](./Prototypes/Library.js)
 
 Create a `Library` constructor that initializes a `books` array. Implement:
 
@@ -118,7 +118,7 @@ Create a `Library` constructor that initializes a `books` array. Implement:
 - Implement `Library` constructor with a `books` array.
 - Attach `addBook(book)` and `findBook(title)` methods to the prototype.
 
-#### [Bank Account-2](./prototypes/bank-account-2.js)
+#### [Bank Account-2](./Prototypes/Bank2.js)
 
 You are building a **banking system** where multiple bank accounts can exist. Each account has an `accountNumber`, `holderName`, and `balance`. Implement the following methods:
 
@@ -131,7 +131,7 @@ You are building a **banking system** where multiple bank accounts can exist. Ea
 - Implement `BankAccount` constructor with `accountNumber`, `holderName`, and `balance`.
 - Attach `deposit(amount)`, `withdraw(amount)`, and `transfer(amount, targetAccount)` methods to the prototype.
 
-#### [Product Constructor](./prototypes/product-constructor.js)
+#### [Product Constructor](./Prototypes/Product.js)
 
 You are developing an **online store** system where each product has the following properties:
 
