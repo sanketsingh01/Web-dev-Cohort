@@ -69,11 +69,11 @@
 </a>
 <br>
 
-## To See all my Articles Please Visit my profile by click belwo
+## To See all my Articles Please Visit my profile by click picture below
 
 <a href="https://hashnode.com/@Sanketsingh78">
       <p align=center>
-      <img width = "500px" border-radius = "10px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/Pofile.gif">
+      <img width = "500px" border-radius = "10px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/animation.gif">
     <p>
 </a>
 <br>
