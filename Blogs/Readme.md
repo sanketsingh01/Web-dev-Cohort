@@ -73,7 +73,7 @@
 
 <a href="https://hashnode.com/@Sanketsingh78">
       <p align=center>
-      <img width = "500px" border-radius = "10px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/animation.gif">
+      <img width = "500px"  alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/animation.gif">
     <p>
 </a>
 <br>
