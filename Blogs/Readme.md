@@ -72,8 +72,7 @@
 ## To See all my Articles Please Visit my profile by click picture below
 
 <a href="https://hashnode.com/@Sanketsingh78">
-      <p align=center>
-      <img width = "500px"  alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/animation.gif">
+      <p align="center"> Sanket Singh
     <p>
 </a>
 <br>
