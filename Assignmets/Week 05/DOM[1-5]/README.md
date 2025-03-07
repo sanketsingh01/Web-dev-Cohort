@@ -8,7 +8,7 @@
 - Use only HTML, CSS, and JavaScript—frameworks and libraries are not allowed.
 - Share your learnings from these challenges in a blog format
 
-## Challenge 1: Light Bulb Toggle 💡 🌚
+## [Challenge 1: Light Bulb Toggle 💡 🌚](./challenge-1/)
 
 - Create a webpage featuring a light bulb image or representation.
 - Implement a button that toggles the light bulb between on and off states.
@@ -17,14 +17,14 @@
 - The button text should dynamically update based on the bulb’s state (e.g., "Turn On" / "Turn Off").
 - Apply a dark mode effect to the page when the bulb is off.
 
-## Challenge 2: Change Text Color 🦎
+## [Challenge 2: Change Text Color 🦎](./challenge-2/)
 
 - Create a webpage with a heading that says "Change My Color!"
 - Add five buttons: Red, Green, Blue, Purple (or any four colors of your choice) and Reset.
 - When a color button is clicked, the heading’s text color should change to the corresponding color.
 - Clicking the Reset button should restore the text color to black.
 
-## Challenge 3: Real-time Form Input Display 📋
+## [Challenge 3: Real-time Form Input Display 📋](./challenge-3/)
 
 - Design a profile form with the following fields:
   - Name (text input)
@@ -35,7 +35,7 @@
 - The preview should update in real-time as the user types.
 - If a field is left empty, display "Not provided" in the preview instead.
 
-## Challenge 4: Task Management 🧏🏻‍♂️
+## [Challenge 4: Task Management 🧏🏻‍♂️](./challenge-4/)
 
 ### Task Management
 
@@ -61,7 +61,7 @@
 - Show the number of completed tasks.
 - These statistics should update dynamically as tasks are added, completed, or deleted.
 
-## Challenge 5: Image Carousel Application 🖼️
+## [Challenge 5: Image Carousel Application 🖼️](./challenge-5/)
 
 ### Image Display
 
