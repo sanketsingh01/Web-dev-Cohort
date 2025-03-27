@@ -18,5 +18,6 @@
 - ## [Week 3 : Js Challenges](./Week%2003/)
 - ## [Week 4 : Js Challenges](./Week%2004/)
 - ## [Week 5 : DOM Challenges](./Week%2005/)
+- ## [Week 6 - 7 : Backend Fast Phase](./Week%2006%20and%2007/)
 
 </br>
